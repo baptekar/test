@@ -4,7 +4,7 @@ m1i.enterprise ={
 	init: () =>{
 		
 	},
-	solution: () =>{ debugger;
+	solutions: { debugger;
 		gb_page_btn_CTA_url: () =>{
 			jQuery('.changeURLOnload').attr('href','https://techtoday.lenovo.com/gb/en/workstations/m&e');
 		}
